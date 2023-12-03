@@ -1,3 +1,3 @@
 # titanic_proj
-Titanic classifier using data science in python 
+Titanic classifier data science project using python 
 #Task 2 #Bharat intern 
